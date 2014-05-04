@@ -24,6 +24,4 @@ circle progress in android
 `````
 
 #### add animation
-````html
-https://github.com/kai-wang-john/nice-sample/blob/master/src/com/sample/nice/CircularProgressBarSample.java#L100-L136
-`````
+[https://github.com/kai-wang-john/nice-sample/blob/master/src/com/sample/nice/CircularProgressBarSample.java#L100-L136](https://github.com/kai-wang-john/nice-sample/blob/master/src/com/sample/nice/CircularProgressBarSample.java#L100-L136)
