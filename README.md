@@ -22,3 +22,8 @@ circle progress in android
 		CPB:progress_color="#ff7068d3"
 		CPB:thumb_visible="false" />
 `````
+
+#### add animation
+````html
+https://github.com/kai-wang-john/nice-sample/blob/master/src/com/sample/nice/CircularProgressBarSample.java#L100-L136
+`````
