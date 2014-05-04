@@ -10,6 +10,7 @@ circle progress in android
 ###how to use
 ````xml
 <com.nice.progress.CircularProgressBar
+		xmlns:CPB="http://schemas.android.com/apk/res/com.sample.nice"
 		android:id="@+id/holoCircularProgressBar1"
 		android:layout_width="300dp"
 		android:layout_height="300dp"
